@@ -19,6 +19,35 @@
 - 臺灣師範大學男女組成
 - 臺灣師範大學各年級組成
 
-[week2](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week2)
+### week2 src code
+- [week2](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week2)
 ## week 3 
-[week3](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week3)
+### pandas
+- 熟悉pandas套件操作
+- 資料預處理
+- 將week2對資料提出的問題以pandas回答
+### week3 src code
+- [week3](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week3)
+
+## week 4
+### 資料欄位分級
+
+
+| 欄位名稱               | 資料尺度/類型              |
+|:---------------------- |:-------------------------- |
+| 1.性別                 | 名目尺度（定性）/category  |
+| 2.年級                 | 名目尺度（定性）/category  |
+| 3.系級                 | 名目尺度（定性）/category  |
+| 4.  這學期學分數       | 等比尺度（定量）/ int      |
+| 5. 每天使用3C時間多寡  | 次序尺度（定性）/ category |
+| 6. 是否單身            | 名目尺度（定性）/category  |
+| 7. 是否打工            | 名目尺度（定性）/category  |
+| 8. 是否參加社團        | 名目尺度（定性）/category  |
+| 9. 經濟能力            | 名目尺度（定性）/category  |
+| 10. 是否申請獎學金     | 名目尺度（定性）/category  |
+| 11. 是否住學校宿舍     | 名目尺度（定性）/category  |
+| 12. 睡眠品質是否好不好 | 名目尺度（定性）/category  |
+| 13. 每周總讀書時間     | 等比尺度（定量）/ float    |
+| 14.  讀書時間高低程度  | 名目尺度（定性）/category  |
+
+
