@@ -50,4 +50,7 @@
 | 13. 每周總讀書時間     | 等比尺度（定量）/ float    |
 | 14.  讀書時間高低程度  | 名目尺度（定性）/category  |
 
-
+## HW
+### hw01
+- the data i analyzed was faraway.csv
+- 6 questions about this dataset
