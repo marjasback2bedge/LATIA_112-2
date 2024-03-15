@@ -52,5 +52,5 @@
 
 ## HW
 ### hw01
-- the data i analyzed was faraway.csv
-- 6 questions about this dataset
+- the data i analyzed was faraway.csv [raw data](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/dataResource/faraway111.csv)
+- 6 questions about this dataset [src code](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw01)
