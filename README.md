@@ -56,3 +56,12 @@
     - [raw data](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/dataResource/faraway111.csv)
 - 6 questions about this dataset 
     - [src code](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw01)
+
+
+## week 6
+### matplotlib
+- pie chart
+- bar chart
+- etc
+### week6 src code
+- [week6](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week6)
