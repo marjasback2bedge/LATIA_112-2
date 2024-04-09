@@ -65,3 +65,11 @@
 - etc
 ### week6 src code
 - [week6](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/week6)
+
+## week 8
+### cssselect
+- select
+- requests
+- lxml.html
+### week 8 src code
+- [week8](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week8/week8_practice.ipynb)
