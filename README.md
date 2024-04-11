@@ -72,4 +72,5 @@
 - requests
 - lxml.html
 ### week 8 src code
+- [url for crawler](http://www.flag.com.tw/books/school_code_n_algo)
 - [week8](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week8/week8_practice.ipynb)
