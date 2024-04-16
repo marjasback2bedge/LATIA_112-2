@@ -74,3 +74,16 @@
 ### week 8 src code
 - [url for crawler](http://www.flag.com.tw/books/school_code_n_algo)
 - [week8](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week8/week8_practice.ipynb)
+
+## week 9
+### selenium
+- webdriver
+- find_element_by_xpath
+- find_element_by_name
+- find_element_by_id
+- find_element_by_class_name
+- find_element_by_link_text
+- find_element_by_partial_link_text
+- find_element_by_tag_name
+
+- [week9](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week9/)
