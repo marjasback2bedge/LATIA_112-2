@@ -78,12 +78,12 @@
 ## week 9
 ### selenium
 - webdriver
-- find_element_by_xpath
-- find_element_by_name
-- find_element_by_id
-- find_element_by_class_name
-- find_element_by_link_text
-- find_element_by_partial_link_text
-- find_element_by_tag_name
+- by_xpath
+- by_name
+- by_id
+- by_class_name
+- by_link_text
+- by_partial_link_text
+- by_tag_name
 
 - [week9](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week9/)
