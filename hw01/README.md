@@ -10,5 +10,5 @@
 - Q5. 各縣市的原住民學生佔比為何？
 - Q6. 各地區屬性（偏遠，特遠，極遠）的原住民學生佔比為？
 ### Answers
-
+- [答案連結](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw01/ansImage)
 
