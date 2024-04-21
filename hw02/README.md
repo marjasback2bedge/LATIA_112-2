@@ -23,4 +23,4 @@
 
 ### 爬取結果
 - 爬取結果存成csv檔
-- [爬取結果]()
+- [爬取結果](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/hw02/result.csv)
