@@ -3,6 +3,7 @@
 - TAIN-桌球站 球員數據
 - [資料網址](https://tain.tw/stats?type=2&points_page=1)
 ### 爬取內容
+將每一頁的球員數據爬取下來，包含以下欄位：
 - Pos
 - 球員
 - 排名
