@@ -50,13 +50,6 @@
 | 13. 每周總讀書時間     | 等比尺度（定量）/ float    |
 | 14.  讀書時間高低程度  | 名目尺度（定性）/category  |
 
-## HW
-### hw01
-- the data i analyzed was faraway.csv 
-    - [raw data](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/dataResource/faraway111.csv)
-- 6 questions about this dataset 
-    - [src code](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw01)
-
 
 ## week 6
 ### matplotlib
@@ -87,3 +80,15 @@
 - by_tag_name
 
 - [week9](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/week9/)
+
+## HW
+### hw01
+- the data i analyzed was faraway.csv 
+    - [raw data](https://github.com/marjasback2bedge/LATIA_112-2/blob/main/dataResource/faraway111.csv)
+- 6 questions about this dataset 
+    - [src code](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw01)
+### hw02
+- the url i crawled was 
+    - [url](https://tain.tw/stats?type=2&points_page=1)
+- source code for hw2
+    - [src code](https://github.com/marjasback2bedge/LATIA_112-2/tree/main/hw02)
