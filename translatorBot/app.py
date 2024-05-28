@@ -11,7 +11,7 @@ import os
 import azure.cognitiveservices.speech as speechsdk
 import librosa
 
-from flask import Flask, request, abort
+from flask import Flask, request, abort, render_template, url_for
 from linebot.v3 import (
     WebhookHandler
 )
@@ -162,5 +162,24 @@ def azure_transliterate(user_input):
         print(f"Error Code: {exception.error.code}")
         print(f"Message: {exception.error.message}")
     
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route("/azure_translate", methods=["POST"])
+def call_llm():
+    if request.method == "POST":
+        print("POST!")
+        data = request.form
+        print(data)
+        chinese_text = data["message"]
+        print(chinese_text)
+        translation_result = azure_translate(chinese_text)
+        print(translation_result)
+        audio_duration = azure_speech(translation_result)
+        return translation_result
+
+
 if __name__ == "__main__":
     app.run()
